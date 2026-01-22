@@ -227,7 +227,7 @@ export default function LandingPage() {
             <span>Filosofi Gajah Oling</span>
           </SectionTitle>
           <p style={{lineHeight: '1.8', color: '#555', fontSize: '1.1rem'}}>
-            Motif <strong>Gajah Oling</strong> menyerupai tanda tanya, yang secara filosofis bermakna "Eling" (Ingat) kepada Sang Pencipta.
+            Motif <strong>Gajah Oling</strong> menyerupai tanda tanya, yang secara filosofis bermakna Eling (Ingat) kepada Sang Pencipta.
             <br/><br/>
             Sebagai UMKM Lokal Banyuwangi, kami berkomitmen melestarikan budaya ini sekaligus memberdayakan ekonomi warga sekitar.
           </p>
